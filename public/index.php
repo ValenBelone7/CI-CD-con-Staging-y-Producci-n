@@ -1,2 +1,2 @@
 <?php
-echo "Hola, soy Valentín desde Staging se supone";
+echo "Hola, soy Valentín desde Staging";
